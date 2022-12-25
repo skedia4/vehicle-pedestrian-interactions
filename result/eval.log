@@ -1,0 +1,86 @@
+2021-11-19 23:20:01, INFO: number of samples: 9216
+2021-11-19 23:20:01, INFO: time-out rate: 0.0180
+2021-11-19 23:20:01, INFO: total collision rate: 0.4491
+2021-11-19 23:20:01, INFO: front collision rate: 0.3725
+2021-11-19 23:20:01, INFO: side collision rate: 0.0766
+2021-11-19 23:20:01, INFO: success rate: 0.5329
+2021-11-19 23:20:01, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:01, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_0_env_1_ReachedGoal.gif
+2021-11-19 23:20:14, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:14, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_0_env_3_collision.gif
+2021-11-19 23:20:16, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:16, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_0_env_5_collision.gif
+2021-11-19 23:20:19, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:19, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_0_env_6_collision.gif
+2021-11-19 23:20:21, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:21, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_0_env_7_collision.gif
+2021-11-19 23:20:24, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:24, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_1_env_0_ReachedGoal.gif
+2021-11-19 23:20:43, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:20:43, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_1_env_1_ReachedGoal.gif
+2021-11-19 23:21:00, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:00, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_1_env_2_collision.gif
+2021-11-19 23:21:03, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:03, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_1_env_3_collision.gif
+2021-11-19 23:21:07, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:07, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_1_env_6_collision.gif
+2021-11-19 23:21:12, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:12, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_1_env_7_SIDEcollision.gif
+2021-11-19 23:21:16, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:16, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_2_env_2_ReachedGoal.gif
+2021-11-19 23:21:30, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:30, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_2_env_4_collision.gif
+2021-11-19 23:21:34, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:34, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_3_env_2_ReachedGoal.gif
+2021-11-19 23:21:47, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:47, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_3_env_5_ReachedGoal.gif
+2021-11-19 23:21:58, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:21:58, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_3_env_7_ReachedGoal.gif
+2021-11-19 23:22:11, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:22:11, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_4_env_2_ReachedGoal.gif
+2021-11-19 23:22:23, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:22:23, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_4_env_5_ReachedGoal.gif
+2021-11-19 23:22:39, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:22:39, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_4_env_6_ReachedGoal.gif
+2021-11-19 23:22:48, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:22:48, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_5_env_2_collision.gif
+2021-11-19 23:22:50, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:22:50, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_5_env_4_collision.gif
+2021-11-19 23:22:54, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:22:54, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_7_env_5_Timeout.gif
+2021-11-19 23:23:12, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:12, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_10_env_0_SIDEcollision.gif
+2021-11-19 23:23:15, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:15, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_17_env_7_SIDEcollision.gif
+2021-11-19 23:23:19, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:19, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_18_env_0_SIDEcollision.gif
+2021-11-19 23:23:21, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:21, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_18_env_4_SIDEcollision.gif
+2021-11-19 23:23:23, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:23, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_20_env_1_Timeout.gif
+2021-11-19 23:23:47, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:47, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_20_env_6_SIDEcollision.gif
+2021-11-19 23:23:50, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:23:50, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_21_env_5_Timeout.gif
+2021-11-19 23:24:16, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:24:16, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_26_env_1_SIDEcollision.gif
+2021-11-19 23:24:19, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:24:19, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_27_env_5_SIDEcollision.gif
+2021-11-19 23:24:24, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:24:24, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_31_env_2_Timeout.gif
+2021-11-19 23:24:47, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:24:47, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_31_env_3_SIDEcollision.gif
+2021-11-19 23:24:49, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:24:49, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_31_env_6_SIDEcollision.gif
+2021-11-19 23:24:56, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:24:56, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_32_env_4_Timeout.gif
+2021-11-19 23:25:22, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:25:22, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_52_env_3_Timeout.gif
+2021-11-19 23:25:44, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:25:44, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_56_env_0_Timeout.gif
+2021-11-19 23:26:03, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:26:03, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_91_env_7_Timeout.gif
+2021-11-19 23:26:25, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:26:25, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_123_env_5_Timeout.gif
+2021-11-19 23:26:46, INFO: Animation.save using <class 'matplotlib.animation.ImageMagickWriter'>
+2021-11-19 23:26:46, INFO: MovieWriter._run: running command: convert -size 640x480 -depth 8 -delay 1.0 -loop 0 rgba:- result/epi_158_env_3_Timeout.gif
