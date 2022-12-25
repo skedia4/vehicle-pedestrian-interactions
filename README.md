@@ -1,3 +1,16 @@
+# Learning-based Vehicle Controller for Vehicle-Pedestrian Interactions
+
+For a detailed description, read our paper located in the report folder. Currently, this work is not published.
+
+
+
+## Result
+<p align='center'>
+<img width="100%" src="/results/multi_ped.gif"/>
+</p>
+
+
+
 ### Set Up
 
 ```bash
