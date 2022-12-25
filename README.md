@@ -6,7 +6,7 @@ For a detailed description, read our paper located in the report folder. Current
 
 ## Result
 <p align='center'>
-<img width="100%" src="/results/multi_ped.gif"/>
+<img width="100%" src="/result/multi_ped.gif"/>
 </p>
 
 
